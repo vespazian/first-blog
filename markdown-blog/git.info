@@ -1,0 +1,9 @@
+to ignore file be pushed add filters to ".gitignore" file
+
+after sav fale on disk:
+    git status --see files that have changes
+    git add file's or folder or *.*
+    git commit
+    git push
+    git status
+    
